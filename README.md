@@ -17,11 +17,11 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact" alt="jeancamargoreal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jeancamargoreal" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancamargoreal&show_icons=true&locale=en" alt="jeancamargoreal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancamargoreal&show_icons=true&locale=en&theme=dracula" alt="jeancamargoreal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancamargoreal&" alt="jeancamargoreal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancamargoreal&&theme=dracula" alt="jeancamargoreal" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
