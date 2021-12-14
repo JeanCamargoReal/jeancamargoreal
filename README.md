@@ -12,8 +12,9 @@
 <h3 align="left">Languages:</h3>
 <p float="left">
 <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Dart" src="https://img.shields.io/badge/Dart-1F5491?style=for-the-badge&logo=Dart&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
@@ -29,6 +30,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>  
   
 &nbsp;
 
