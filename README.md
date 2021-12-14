@@ -15,6 +15,7 @@
 <p float="left">
 <img alt="UIKit" src="https://img.shields.io/badge/UIKit%20-%23323330.svg?&style=for-the-badge&logo=uikit&logoColor=orange"/>
 <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods%20-%23323330.svg?&style=for-the-badge&logo=cocoapods&logoColor=orange"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-1F5491?&style=for-the-badge&logo=flutter&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Fireabase-E28835.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-214A35?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
