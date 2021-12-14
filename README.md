@@ -12,6 +12,7 @@
 <img alt="Dart" src="https://img.shields.io/badge/Dart-1F5491?style=for-the-badge&logo=Dart&logoColor=white"/>
 
 <h3 align="left">Frameworks:</h3>
+<p float="left">
 <img alt="UIKit" src="https://img.shields.io/badge/UIKit%20-%23323330.svg?&style=for-the-badge&logo=uikit&logoColor=orange"/>
 <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods%20-%23323330.svg?&style=for-the-badge&logo=cocoapods&logoColor=orange"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Fireabase-E28835.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
@@ -19,6 +20,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
+<p float="left">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
