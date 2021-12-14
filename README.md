@@ -28,7 +28,7 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jeancamargoreal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jeancamargoreal" /></p>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancamargoreal&show_icons=true&locale=en&theme=dracula" alt="jeancamargoreal" /></p>
