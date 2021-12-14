@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeancamargoreal&label=Profile%20views&color=0e75b6&style=flat" alt="jeancamargoreal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancamargoreal&theme=radical&no-bg=false" alt="jeancamargoreal" /></a> </p>
+&nbsp;
 
 <h3 align="left">Languages:</h3>
 <p float="left">
@@ -25,7 +26,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+  
 &nbsp;
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jeancamargoreal" /></p>
