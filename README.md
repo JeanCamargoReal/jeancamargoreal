@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
-<h3 align="center">A passionate Flutter and iOS Developer from Brazil</h3>
+<h3 align="center">A passionate iOS Developer from Brazil</h3>
 
 <p float="left">
 <align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
