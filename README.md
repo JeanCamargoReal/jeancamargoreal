@@ -15,7 +15,6 @@
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-1F5491?style=for-the-badge&logo=Dart&logoColor=white"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
