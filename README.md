@@ -13,18 +13,17 @@
 
 <h3 align="left">Languages:</h3>
 <p float="left">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%23323330.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
 <img alt="Dart" src="https://img.shields.io/badge/Dart-1F5491?style=for-the-badge&logo=Dart&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
+<img alt="Django" src="https://img.shields.io/badge/Django-214A35?style=for-the-badge&logo=django&logoColor=white"/>
 <img alt="UIKit" src="https://img.shields.io/badge/UIKit%20-%23323330.svg?&style=for-the-badge&logo=uikit&logoColor=orange"/>
 <img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods%20-%23323330.svg?&style=for-the-badge&logo=cocoapods&logoColor=orange"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-1F5491?&style=for-the-badge&logo=flutter&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Fireabase-E28835.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-214A35?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 <h3 align="left">Tools:</h3>
