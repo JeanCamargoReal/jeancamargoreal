@@ -7,10 +7,7 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancamargoreal&theme=flat&no-bg=false" alt="jeancamargoreal" /></a> </p>
-&nbsp;
   
-<img align='right' src="https://media.giphy.com/media/26xBPapqZgN5M1KrC/giphy.gif" width="380"> 
-
 <h3 align="left">Languages:</h3>
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
