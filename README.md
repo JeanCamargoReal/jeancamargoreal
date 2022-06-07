@@ -30,8 +30,8 @@
 </p>  
   
 &nbsp;
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeancamargoreal&show_icons=true&locale=en&layout=compact&theme=flat" alt="jeancamargoreal" /></p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancamargoreal&langs_count=8" alt="jeancamargoreal" /></p>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeancamargoreal&show_icons=true&locale=en&theme=flat" alt="jeancamargoreal" /></p>
