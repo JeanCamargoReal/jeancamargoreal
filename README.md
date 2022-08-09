@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
-<h3 align="center">A passionate Python Developer from Brazil</h3>
+<h3 align="center">A passionate iOS Developer from Brazil</h3>
 
 <p float="left">
 <align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
@@ -10,17 +10,20 @@
   
 <h3 align="left">Languages:</h3>
 <p float="left">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
+<img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
-<img alt="Django" src="https://img.shields.io/badge/Django-214A35?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
+<img alt="UIKit" src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=uikit&logoColor=blue"/>
+<img alt="CocoaPods" src="https://img.shields.io/badge/CocoaPods-000000?style=for-the-badge&logo=cocoapods&logoColor=orange"/>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p float="left">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-lightgray?style=for-the-badge&logo=firebase&logoColor=yellow"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>  
