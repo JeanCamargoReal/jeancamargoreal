@@ -16,7 +16,7 @@
 <h3 align="left">Frameworks:</h3>
 <p float="left">
 <img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=blue"/>
-<img alt="Flask" src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -24,7 +24,7 @@
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-lightgray?style=for-the-badge&logo=firebase&logoColor=yellow"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>  
   
