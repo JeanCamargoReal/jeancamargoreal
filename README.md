@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
-<h3 align="center">A passionate iOS App Developer from Brazil</h3>
+<h3 align="center">A passionate Pytho Developer from Brazil</h3>
 
 <p float="left">
 <align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
@@ -10,13 +10,13 @@
   
 <h3 align="left">Languages:</h3>
 <p float="left">
-<img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
-<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
-<img alt="CoreML" src="https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=swift&logoColor=green"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green"/>
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 <h3 align="left">Tools:</h3>
