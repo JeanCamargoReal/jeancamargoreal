@@ -12,7 +12,6 @@
 <p float="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=purple"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -22,7 +21,6 @@
 <img alt="FastAPI" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=green"/>
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
 <img alt="Cocoa Touch" src="https://img.shields.io/badge/Cocoa Touch-000000?style=for-the-badge&logo=uikit&logoColor=blue"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=green"/>
 </p>
 
 <h3 align="left">Tools:</h3>
