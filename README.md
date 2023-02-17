@@ -20,7 +20,6 @@
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="FastAPI" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=green"/>
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
-<img alt="Cocoa Touch" src="https://img.shields.io/badge/Cocoa Touch-000000?style=for-the-badge&logo=uikit&logoColor=blue"/>
 </p>
 
 <h3 align="left">Tools:</h3>
