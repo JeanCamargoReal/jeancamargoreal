@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
-<h3 align="center">A passionate Python Developer from Brazil</h3>
+<h3 align="center">A passionate iOS Developer from Brazil</h3>
 
 <p float="left">
 <align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
@@ -10,15 +10,11 @@
   
 <h3 align="left">Languages:</h3>
 <p float="left">
-<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
 <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
-<img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=green"/>
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="FastAPI" src="https://img.shields.io/badge/Fastapi-000000?style=for-the-badge&logo=fastapi&logoColor=green"/>
 <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
 </p>
 
