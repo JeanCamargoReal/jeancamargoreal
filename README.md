@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
 <h3 align="center">A passionate Python and iOS Developer from Brazil</h3>
 
-<p float="left">
-<align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
-<align="left"> <img src="https://img.shields.io/github/stars/jeancamargoreal?color=DB5C7D&logo=github&style=for-the-badge" alt="jeancamargoreal" />
-</p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancamargoreal&theme=flat&no-bg=false" alt="jeancamargoreal" /></a> </p>
   
 <h3 align="left">Languages:</h3>
@@ -40,6 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeancamargoreal&&theme=flat" alt="jeancamargoreal" /></p>
 
+<p float="left">
+<align="left"> <img src="https://img.shields.io/github/followers/jeancamargoreal?style=social" alt="jeancamargoreal" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
