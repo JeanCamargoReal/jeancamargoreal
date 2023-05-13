@@ -11,10 +11,12 @@
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
-<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
-<img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas"/>
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
 </p>
 
 <h3 align="left">Tools:</h3>
