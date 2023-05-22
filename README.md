@@ -6,7 +6,6 @@
 <h3 align="left">Languages:</h3>
 <p float="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
 </p>
 
