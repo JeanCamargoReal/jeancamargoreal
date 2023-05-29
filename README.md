@@ -7,13 +7,11 @@
 <p float="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=orange"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart"/>
 </p>
 
 <h3 align="left">Frameworks:</h3>
 <p float="left">
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=blue"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django"/>
