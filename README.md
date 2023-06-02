@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean Camargo</h1>
-<h3 align="center">A passionate Python and iOS Developer from Brazil</h3>
+<h3 align="center">A passionate iOS Developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancamargoreal&theme=flat&no-bg=false" alt="jeancamargoreal" /></a> </p>
   
