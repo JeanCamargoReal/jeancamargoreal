@@ -20,7 +20,6 @@
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-lightgray?style=for-the-badge&logo=firebase&logoColor=yellow"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>   
   
 &nbsp;
