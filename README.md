@@ -26,8 +26,8 @@
   <img alt="Cocoapods" src="https://img.shields.io/badge/Cocoapods-000000?style=for-the-badge&logo=cocoapods"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-lightgray?style=for-the-badge&logo=firebase&logoColor=yellow"/>
-  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/> -->
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>   
   
 &nbsp;
